@@ -1,5 +1,7 @@
 # Form Validator
 
+https://chriszmx.github.io/FormValidator/
+
 Welcome to the Form Validator project! This is a simple web application that validates user input in a registration form. It checks for various conditions such as empty fields, email format, and password match.
 
 ![Form Validator Demo](demo.gif)
