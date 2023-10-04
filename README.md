@@ -10,8 +10,8 @@ Welcome to the Form Validator project! This is a simple web application that val
 - [Features](#features)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Getting Started
 
@@ -58,6 +58,3 @@ You can customize the Form Validator project to fit your needs:
 - **Error Messages**: Customize the error messages by updating the `small` elements in the HTML file (`index.html`) with your preferred text.
 
 - **Validation Rules**: Adjust the validation rules by editing the JavaScript code in the `script.js` file. You can change the minimum and maximum lengths for username and password or even add new validation checks.
-
-
-
